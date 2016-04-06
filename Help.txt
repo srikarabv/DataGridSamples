@@ -1,0 +1,2 @@
+This repo will contains the example of WPF/DataGrid. This is the master branch. 
+We can create diffrenet branches depends on the people who edits this
